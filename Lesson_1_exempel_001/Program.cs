@@ -1,6 +1,6 @@
 ﻿int number;
 
-number = int.Parse(Console.ReadLine());
+number = int.Parse(Console.ReadLine()!);
 
 int squareOfNumber = number *number;
 
